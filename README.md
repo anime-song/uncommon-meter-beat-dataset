@@ -102,4 +102,3 @@ python update_dataset_docs.py
 ## Before Publishing
 
 This repository is released under the [MIT License](LICENSE). Audio is not included.
-See [PUBLISHING.md](PUBLISHING.md) for step-by-step GitHub and Hugging Face release instructions.
